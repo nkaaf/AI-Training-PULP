@@ -1,0 +1,5 @@
+{
+	"BNRelu_bits": 32,
+	"onnx_file": "%MODEL_FILE_NAME",
+	"code reserved space": 95000
+}

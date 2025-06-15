@@ -1,0 +1,8 @@
+.venv
+.idea
+
+config
+export
+logs
+network_generate.py
+

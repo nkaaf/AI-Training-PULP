@@ -1,0 +1,28 @@
+{
+    "version": "5.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "turtlebot",
+            "points": [
+                [
+                    95.9108910891089,
+                    190.56435643564356
+                ],
+                [
+                    209.2772277227723,
+                    18.782178217821784
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "img_000094.png",
+    "imageData": null,
+    "imageHeight": 244,
+    "imageWidth": 324
+}

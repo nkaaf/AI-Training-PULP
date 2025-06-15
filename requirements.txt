@@ -1,0 +1,10 @@
+jupyter
+
+pytorch-nemo @ git+https://github.com/nkaaf/pulp-platform-nemo@0.0.9
+dory @ git+https://github.com/nkaaf/pulp-platform-dory@0.2
+numpy<2
+torch<1.11.0
+torchvision
+pillow
+pycocotools
+tqdm
